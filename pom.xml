@@ -3,4 +3,16 @@
   <groupId>com.xcalibur.qa</groupId>
   <artifactId>Autotron</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>org.seleniumhq.selenium</groupId>
+  		<artifactId>selenium-java</artifactId>
+  		<version>3.6.0</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>org.seleniumhq.selenium</groupId>
+  		<artifactId>selenium-server</artifactId>
+  		<version>3.6.0</version>
+  	</dependency>
+  </dependencies>
 </project>
